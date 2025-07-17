@@ -4,6 +4,16 @@ This is a simple, clean, and interactive Streamlit app that analyzes the **senti
 
 ---
 
+## Overview
+
+This project uses Hugging Face Transformers to:
+- Detect the language of a text
+- Analyze the sentiment (Positive, Neutral, Negative)
+- Identify the dominant emotion (Joy, Anger, Sadness, etc.)
+- Display confidence scores for each result
+- Present results in a sleek, dark-themed interface
+---
+
 ## Features
 
 - Sentiment Analysis: Positive, Negative, Neutral
