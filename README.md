@@ -25,6 +25,15 @@ This project uses Hugging Face Transformers to:
   - `j-hartmann/emotion-english-distilroberta-base`
 
 ---
+## Deployment Instructions
+
+ 1.To deploy this on a platform like Streamlit Cloud:
+ 2.Push this project to a public GitHub repository.
+ 3.Go to the platform and select your repository.
+ 4.Set app.py as the entry point.
+ 5.Click Deploy.
+ 
+ ---
 
 ## Installation
 
@@ -33,13 +42,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/sentiment-emotion-analyzer.git
 cd sentiment-emotion-analyzer
-
----
-
-## Deployment Instructions
-
- 1.To deploy this on a platform like Streamlit Cloud:
- 2.Push this project to a public GitHub repository.
- 3.Go to the platform and select your repository.
- 4.Set app.py as the entry point.
- 5.Click Deploy.
