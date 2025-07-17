@@ -16,13 +16,6 @@ This is a simple, clean, and interactive Streamlit app that analyzes the **senti
 
 ---
 
-## Demo
-
-Try it live on [Streamlit Cloud](https://share.streamlit.io/)  
-(*Replace with your actual deployed link*)
-
----
-
 ## Installation
 
 Clone the repository:
