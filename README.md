@@ -36,7 +36,8 @@ cd sentiment-emotion-analyzer
 
 ---
 
-##Deployment Instructions
+## Deployment Instructions
+
  1.To deploy this on a platform like Streamlit Cloud:
  2.Push this project to a public GitHub repository.
  3.Go to the platform and select your repository.
